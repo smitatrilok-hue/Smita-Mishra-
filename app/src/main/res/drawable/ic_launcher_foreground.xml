@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Browser Outline / Card Frame with drop shadow -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M26,32 h56 a4,4 0 0 1 4,4 v40 a4,4 0 0 1 -4,4 h-56 a4,4 0 0 1 -4,-4 v-40 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M24,30 h56 a4,4 0 0 1 4,4 v40 a4,4 0 0 1 -4,4 h-56 a4,4 0 0 1 -4,-4 v-40 a4,4 0 0 1 4,-4 z" />
+
+    <!-- Browser Header Bar -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M24,30 h56 a4,4 0 0 1 4,4 v4 h-60 v-4 a4,4 0 0 1 4,-4 z" />
+
+    <!-- Header Control Dots -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M29,34a1.2,1.2 0 1,1 -2.4,0 1.2,1.2 0 1,1 2.4,0" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,34a1.2,1.2 0 1,1 -2.4,0 1.2,1.2 0 1,1 2.4,0" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M39,34a1.2,1.2 0 1,1 -2.4,0 1.2,1.2 0 1,1 2.4,0" />
+
+    <!-- Mock Website Layout text lines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M30,68 h20 v2 h-20 z M30,73 h32 v2 h-32 z" />
+
+    <!-- Highlighted Advertisement Banner Block in the center (Cyan gradient style) -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M28,42 h48 a2,2 0 0 1 2,2 v18 a2,2 0 0 1 -2,2 h-48 a2,2 0 0 1 -2,-2 v-18 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Ad Copy details on the banner (simulating image & button) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,47 h16 v2 h-16 z M32,51 h26 v2 h-26 z M32,55 h12 v2 h-12 z" />
+    <path
+        android:fillColor="#0E7490"
+        android:pathData="M64,52 h8 a1,1 0 0 1 1,1 v4 a1,1 0 0 1 -1,1 h-8 a1,1 0 0 1 -1,-1 v-4 a1,1 0 0 1 1,-1 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,54 h4 v1 h-4 z" />
+
+    <!-- Magic AI Sparkle Star 1 (Gold/Yellow top-right) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M84,18 L86.5,23.5 L92,26 L86.5,28.5 L84,34 L81.5,28.5 L76,26 L81.5,23.5 Z" />
+
+    <!-- Magic AI Sparkle Star 2 (Light Gold bottom-left) -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M18,66 L19.5,70 L23.5,71.5 L19.5,73 L18,77 L16.5,73 L12.5,71.5 L16.5,70 Z" />
+
+    <!-- Accent Magic Dot -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M88,48a1.5,1.5 0 1,1 -3,0 1.5,1.5 0 1,1 3,0" />
+</vector>
